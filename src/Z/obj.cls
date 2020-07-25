@@ -1,6 +1,6 @@
 /// Extended Object Dump
 /// including output to %Stream
-Class ZZ.obj
+Class Z.obj
 {
 /// <pre>    
 /// fill result into a prepared Stream
