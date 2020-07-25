@@ -3,12 +3,12 @@
   <Document name="obj-dump.ZPM">
     <Module>
       <Name>obj-dump</Name>
-      <Version>1.0.2</Version>
+      <Version>1.0.3</Version>
       <Description>Full Object Dump</Description>
       <Keywords>OBJ, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="Z.PKG"/>
+       <Resource Name="ZZ.PKG"/>
     </Module>
   </Document>
 </Export>
