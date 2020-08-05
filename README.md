@@ -18,3 +18,5 @@ or if explicitly requested all properties.
 
 Similar is the output to stream 
 .   DO ##class(Z.obj).dumpToStream(.outstream,obj)  
+
+[Article in DC](https://community.intersystems.com/post/more-usefull-object-dump)
