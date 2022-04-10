@@ -134,7 +134,7 @@ ClassMethod dump(
 ClassMethod show(
 	property As %String = "",
 	value As %String = "",
-	drilldownLimit As %Integer = -1) As %String [ Internal, Private ]
+	drilldownLimit As %Integer = -1) [Internal, Private ]
 {
 #dim %tempStream as %Stream.TmpCharacter
         if value]"",$listvalid(value) 
@@ -151,7 +151,7 @@ ClassMethod show(
                 }  
             }
         
-        do %tempStream.WriteLine(property_": "_value) quit
+        do %tempStream.WriteLine(property_": "_value) 
     quit
 }
 
