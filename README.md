@@ -24,6 +24,4 @@ Similar is the output to stream
 [Demo Server WebTerminal](https://obj-dump.demo.community.intersystems.com/terminal/)    
         
 **Code Quality**   
-<img width="85%" src="
-https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
-">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1764/screenshots/8oyru9ltkwkagumlgfnfi75qto.jpg">
