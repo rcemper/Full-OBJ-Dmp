@@ -3,7 +3,7 @@
   <Document name="obj-dump.ZPM">
     <Module>
       <Name>obj-dump</Name>
-      <Version>1.0.8</Version>
+      <Version>1.0.9</Version>
       <Description>Full Object Dump + Swizzle</Description>
       <Keywords>OBJ, COS</Keywords>
       <Packaging>module</Packaging>
