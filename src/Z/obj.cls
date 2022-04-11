@@ -1,5 +1,5 @@
 /// Extended Object Dump
-/// including output to %Stream
+/// including output to %Stream    
 Class Z.obj
 {
 /// <pre>    
