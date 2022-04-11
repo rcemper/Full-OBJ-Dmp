@@ -20,8 +20,8 @@ Similar is the output to stream
 
 [Article in DC](https://community.intersystems.com/post/more-usefull-object-dump)     
 
-[Demo Server SMP](https://obj-dump.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://obj-dump.demo.community.intersystems.com/terminal/)    
+[Demo Server SMP](https://full-obj-dump.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://full-obj-dump.demo.community.intersystems.com/terminal/)    
         
 **Code Quality**   
 <img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1764/screenshots/8oyru9ltkwkagumlgfnfi75qto.jpg">
