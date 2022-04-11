@@ -15,7 +15,7 @@ By default you see just properties with content,
 or if explicitly requested all properties.  
 .    DO ##class(Z.obj).dumpToDevice(obj,1)  
 
-Similar is the output to stream 
+Similar is the output to stream     
 .   DO ##class(Z.obj).dumpToStream(.outstream,obj)  
 
 [Article in DC](https://community.intersystems.com/post/more-usefull-object-dump)     
