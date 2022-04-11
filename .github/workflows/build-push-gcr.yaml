@@ -8,9 +8,9 @@ on:
 
 env:
   # Change this section according to your needs
-  IMAGE_NAME:   obj-dump
-  SERVICE:      obj-dump
-  DOMAIN_NAME:  obj-dump.demo.community.intersystems.com
+  IMAGE_NAME:   full-obj-dump
+  SERVICE:      full-obj-dump
+  DOMAIN_NAME:  full-obj-dump.demo.community.intersystems.com
 # Leave this section untouched
   PROJECT_ID:   iris-community-demos
   CLUSTER_NAME: demo
