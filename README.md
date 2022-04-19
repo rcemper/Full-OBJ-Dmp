@@ -1,7 +1,4 @@
- ~~~
- This is a coding example working on IRIS 2020.1 and on Caché 2018.1.3 
- It will not be kept in sync with new versions      
-~~~ 
+ 
 During testing your code you are are often confronted with the need to examine  
 the actual content of an object. Either using ZWRITE or $system.OBJ.Dump()  
 you get a picture of simple properties as "--- attribute values ---"  
