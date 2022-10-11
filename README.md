@@ -1,4 +1,6 @@
- 
+## Full-OBJ-Dump
+ [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2FFull-OBJ-Dump&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2FFull-OBJ-Dump) 
+
 During testing your code you are are often confronted with the need to examine  
 the actual content of an object. Either using ZWRITE or $system.OBJ.Dump()  
 you get a picture of simple properties as "--- attribute values ---"   
