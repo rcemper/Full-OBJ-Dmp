@@ -9,12 +9,19 @@ and with "--- calculated references ---" you are just left in the lurch.
   
 This small helper class allows you to dump an object to terminal or  
 e.g in background to some stream for later review.     
-By default you see just properties with content,  
-.   DO ##class(Z.obj).dumpToDevice(obj)  
-or if explicitly requested all properties.  
-.    DO ##class(Z.obj).dumpToDevice(obj,1)  
+By default you see just properties with content, 
 
+```
+   DO ##class(Z.obj).dumpToDevice(obj) 
+```
+or if explicitly requested all properties.  
+
+```
+   DO ##class(Z.obj).dumpToDevice(obj,1)  
+```
 Similar is the output to stream     
-.   DO ##class(Z.obj).dumpToStream(.outstream,obj)  
+``` 
+   DO ##class(Z.obj).dumpToStream(.outstream,obj)  
+```
 
 [Article in DC](https://community.intersystems.com/post/more-usefull-object-dump)     
